@@ -315,4 +315,4 @@ function getStart() {
 		context.drawImage(mainImage, player.pacmouth, player.pacdir, 32, 32, player.x, player.y, 32,32);
 	}
 }
- 
+
